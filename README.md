@@ -1,0 +1,1 @@
+![Sarazar Samstag](./src//assets/SarazarSamstag.jpg)

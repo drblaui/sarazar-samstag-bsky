@@ -1,7 +1,7 @@
 name: Run Bot
 on:
   schedule:
-    - cron: "* 12 * * 6"
+    - cron: "00 12 * * 6"
 
 jobs:
   build:
